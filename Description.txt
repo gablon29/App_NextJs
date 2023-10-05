@@ -1,0 +1,6 @@
+# Que es lo que tengo
+Tenemos una aplicacion de NextJs y App Route para desarrollar una api crud
+con peticiones "GET, POST, DELETE, PUT"
+Donde la estructura del proyecto se devide en peticiones para traer todos los datos
+de la api "fakestoreapi/products" datos generales
+Estas (peticiones) se encuentran en la carpeta "api/product" en el archivo route.js

@@ -10,7 +10,7 @@ export const GET = async () => {
   const products = await result.json();
   return NextResponse.json({ products: products });
 };
-
+// PETICION POST
 export const POST = async (req) => {
   const product = await req.json();
   console.log(product);
